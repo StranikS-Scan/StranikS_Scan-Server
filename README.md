@@ -1,5 +1,5 @@
 # StranikS_Scan-Server
-Ñonfiguration files provide access control to the NAS-server and its resources from the program and other sources. While providing the ability to change addresses and control access to the server.
+Configuration files provide access control to the NAS-server and its resources from the program and other sources. While providing the ability to change addresses and control access to the server.
 
 ### Description
 Format of the main **ini**-file:
